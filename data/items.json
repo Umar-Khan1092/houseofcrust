@@ -1,0 +1,340 @@
+{
+  "menu": [
+    {
+      "category_name": "Burgers",
+      "item_name": "Lava Burger",
+      "price": 600,
+      "available": "yes",
+      "image": "https://static.sooperchef.pk/topics/2021/03/16165924516946.jpg"
+    },
+    {
+      "category_name": "Burgers",
+      "item_name": "Zinger Burger",
+      "price": 340,
+      "available": "yes",
+      "image": "https://lh3.googleusercontent.com/proxy/hbFa1DL5ftY_i7ER3i9NQtAKovejTi9XJDC5ax6w8T7wakgQwacqkfnoCF18c3ur39AzUjk0LMbpQb-KLEV52jbIoWSYulqkvdd7lUuyuuMxp-5AKWakI-BdnFCrv9y9HjN4vHQDI66gPuN_QN7qGsqJPl2M5b8=s680-w680-h510-rw"
+    },
+    {
+      "category_name": "Burgers",
+      "item_name": "Chicken Burger",
+      "price": 300,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHppbmdlciUyMGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "category_name": "Burgers",
+      "item_name": "BBQ Burger",
+      "price": 290,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1651993841930-946a700c1524?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fHppbmdlciUyMGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "category_name": "Burgers",
+      "item_name": "Tower Burger",
+      "price": 520,
+      "available": "yes",
+      "image": "https://plus.unsplash.com/premium_photo-1683619761492-639240d29bb5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVyZ2Vyc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "category_name": "Burgers",
+      "item_name": "House of Crust Burger",
+      "price": 570,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YnVyZ2Vyc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "category_name": "Burgers",
+      "item_name": "Grilled BBQ Burger",
+      "price": 530,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1620041630962-cd157e9e1c4a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fGdyaWxsZWQlMjBidXJnZXJzfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Burgers",
+      "item_name": "Grilled Jalapeno Burger",
+      "price": 530,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1559671743-c67a25c1c665?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fGdyaWxsZWQlMjBidXJnZXJzfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Burgers",
+      "item_name": "Grilled Peri Peri Burger",
+      "price": 530,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1576047758648-6998fcc0d407?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg0fHxncmlsbGVkJTIwYnVyZ2Vyc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "category_name": "Burgers",
+      "item_name": "Grilled Cocktail Burger",
+      "price": 530,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1591416658058-1f35429280ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjM1fHxncmlsbGVkJTIwYnVyZ2Vyc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "category_name": "Sandwiches",
+      "item_name": "Smoked Sandwich",
+      "price": 500,
+      "available": "yes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpSYEQjKEYfu2MeESjMjA1yr_tOwi9XgLyiA&s"
+    },
+    {
+      "category_name": "Sandwiches",
+      "item_name": "Grilled Chicken Sandwich",
+      "price": 500,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1540713434306-58505cf1b6fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2FuZHdpY2h8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "category_name": "Sandwiches",
+      "item_name": "Grilled Sandwich",
+      "price": 500,
+      "available": "yes",
+      "image": "https://plus.unsplash.com/premium_photo-1738802845911-809a01acfa50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c2FuZHdpY2h8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "category_name": "Fries",
+      "item_name": "Regular Fries",
+      "price": 160,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1598679253544-2c97992403ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJpZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "category_name": "Fries",
+      "item_name": "Large Fries",
+      "price": 200,
+      "available": "yes",
+      "image": "https://plus.unsplash.com/premium_photo-1672774750509-bc9ff226f3e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZnJpZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "category_name": "Fries",
+      "item_name": "Family Fries",
+      "price": 300,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGZyaWVzfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Fries",
+      "item_name": "Simple Fries",
+      "price": 320,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1665117861973-fffa50c1afec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGZyaWVzfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Fries",
+      "item_name": "Masla Fries",
+      "price": 320,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGZyaWVzfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Fries",
+      "item_name": "BBQ Fries",
+      "price": 320,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1684815495679-f6e6bc0634ec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGZyaWVzfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Fries",
+      "item_name": "Loaded Fries",
+      "price": 500,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1593507369837-9adcc0c0bdc6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGZyaWVzfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Fries",
+      "item_name": "Crispy Fries",
+      "price": 550,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1736826201175-c6023019ab75?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fGZyaWVzfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Fries",
+      "item_name": "Loaded Pizza Fries",
+      "price": 550,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1647705196427-7e598e04add2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fGZyaWVzfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Wraps",
+      "item_name": "Zee Roll",
+      "price": 310,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1671572578870-1fcac451899b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNoaWNrZW4lMjB3cmFwfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Wraps",
+      "item_name": "Chicken Wrap",
+      "price": 310,
+      "available": "yes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1r1MOgFOuZphZlXrDsTAiRXtlsgvSukZlA&s"
+    },
+    {
+      "category_name": "Wraps",
+      "item_name": "Chicken Shawarma",
+      "price": 310,
+      "available": "yes",
+      "image": "https://static.toiimg.com/thumb/64696930.cms?imgsize=329052&width=800&height=800"
+    },
+    {
+      "category_name": "Wraps",
+      "item_name": "Chicken Crispy Roll",
+      "price": 310,
+      "available": "yes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKwTFiV2NTVeNtvDW-PEN-QR9xsI9NIHWnNg&s"
+    },
+    {
+      "category_name": "Wraps",
+      "item_name": "BBQ Roll",
+      "price": 310,
+      "available": "yes",
+      "image": "https://images.unsplash.com/photo-1719282431565-3b30bb7d2658?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fGNoaWNrZW4lMjB3cmFwfGVufDB8fDB8fHww"
+    },
+    {
+      "category_name": "Wraps",
+      "item_name": "BBQ Grilled Wrap",
+      "price": 450,
+      "available": "yes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvX-yhGfi4Xug5Di-YPrgiq2VdVBu0ubPvg&s"
+    },
+    {
+      "category_name": "Wraps",
+      "item_name": "Peri Peri Grilled Wrap",
+      "price": 450,
+      "available": "yes",
+      "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2017/04/BBQ-Chicken-Wraps-4-480x270.jpg"
+    },
+    {
+      "category_name": "Wraps",
+      "item_name": "Cocktail Grilled Wrap",
+      "price": 450,
+      "available": "yes",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Grilled-Chicken-Wrap_EXPS_TOHD24_36409_SarahTramonte_5.jpg"
+    },
+    {
+      "category_name": "Wraps",
+      "item_name": "Loaded Grilled Wrap",
+      "price": 450,
+      "available": "yes",
+      "image": "https://i.pinimg.com/736x/9b/44/99/9b449935462de2ef94bf109e5b9d79e0.jpg"
+    },
+    {
+      "category_name": "Arabian Rice",
+      "item_name": "Arabian Plain Rice",
+      "price": 220,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715360/plainrice_sunp7m.png"
+    },
+    {
+      "category_name": "Arabian Rice",
+      "item_name": "Crispy Rice",
+      "price": 340,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715356/crispyrice_kvmaoe.avif"
+    },
+    {
+      "category_name": "Arabian Rice",
+      "item_name": "BBQ Rice",
+      "price": 360,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715361/bbqrice_boxjky.png"
+    },
+    {
+      "category_name": "Ice Cream",
+      "item_name": "Single Scoop",
+      "price": 130,
+      "available": "yes",
+      "image": "https://thumbs.dreamstime.com/b/enticing-product-shot-showcases-single-scoop-delectable-plain-vanilla-ice-cream-nestled-simple-paper-cup-against-358314723.jpg"
+    },
+    {
+      "category_name": "Ice Cream",
+      "item_name": "Double Scoop",
+      "price": 240,
+      "available": "yes",
+      "image": "https://thumbs.dreamstime.com/b/double-scoop-ice-cream-cone-sweet-summer-treat-delicious-indulgence-dessert-indulge-scrumptious-double-scoop-ice-cream-382187300.jpg"
+    },
+    {
+      "category_name": "Fried Chicken",
+      "item_name": "Fried Chicken 1 Piece",
+      "price": 220,
+      "available": "yes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLROL8IUkGNKUyc6NHneM2RdPLZqYXU3D8SA&s"
+    },
+    {
+      "category_name": "Fried Chicken",
+      "item_name": "Fried Chicken 2 Pieces",
+      "price": 420,
+      "available": "yes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WWS8-6iBAcSQ1-fGUXNJHcb-cDlry2evMg&s"
+    },
+    {
+      "category_name": "Fried Chicken",
+      "item_name": "Fried Chicken 5 Pieces",
+      "price": 1050,
+      "available": "yes",
+      "image": "https://www.thedailymeal.com/img/gallery/the-only-pan-you-should-use-to-fry-chicken/l-intro-1672163497.jpg"
+    },
+    {
+      "category_name": "Hot Wings",
+      "item_name": "Hot Wings 5 Pieces",
+      "price": 300,
+      "available": "yes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyB0ZbsQRFvc12rOFGn27V7Jz3_OiEt84WDA&s"
+    },
+    {
+      "category_name": "Hot Wings",
+      "item_name": "Hot Wings 10 Pieces",
+      "price": 580,
+      "available": "yes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jUPzRb4rPxIMT8O3Tdty9NxqyhpZHWXKvg&s"
+    },
+    {
+      "category_name": "Hot Wings",
+      "item_name": "Grilled Wings 8 Pieces",
+      "price": 540,
+      "available": "yes",
+      "image": "https://www.simplyrecipes.com/thmb/vH0Gb9w2Yg1Cp3CuR9MFfKCRXr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Gilled-BBQ-Wings-METHOD-4-ae694aa5242b441c80f32adcdfb47c3b.jpg"
+    },
+    {
+      "category_name": "Hot Wings",
+      "item_name": "Jumbo Wings 5 Pieces",
+      "price": 600,
+      "available": "yes",
+      "image": "https://allfreshseafood.com/cdn/shop/files/Untitled_1.jpg?v=1773019955&width=1946"
+    },
+    {
+      "category_name": "Chicken Nuggets",
+      "item_name": "Nuggets 5 Pieces",
+      "price": 230,
+      "available": "yes",
+      "image": "https://images.albertsons-media.com/is/image/ABS/970526933?$ng-ecom-pdp-desktop$&defaultImage=Not_Available"
+    },
+    {
+      "category_name": "Chicken Nuggets",
+      "item_name": "Nuggets 10 Pieces",
+      "price": 450,
+      "available": "yes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76IE6mVHqJGQpJFufoC-2dpNKu6iA1AiT1A&s"
+    },
+    {
+      "category_name": "Extras",
+      "item_name": "Peri Peri Sauce",
+      "price": 60,
+      "available": "no",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780714808/periperisauce_ifihzc.png"
+    },
+    {
+      "category_name": "Extras",
+      "item_name": "BBQ Sauce",
+      "price": 60,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780714808/bbqsauce_e39cnk.png"
+    },
+    {
+      "category_name": "Extras",
+      "item_name": "Creamy Sauce",
+      "price": 50,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780717715/creamysauce_xxiryg.avif"
+    }
+  ]
+}

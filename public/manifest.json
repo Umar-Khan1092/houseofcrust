@@ -1,0 +1,38 @@
+{
+  "name": "House of Crust",
+  "short_name": "HouseOfCrust",
+  "description": "Order food online from House of Crust - Bahawalpur",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#cc0000",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780941886/houseofcrust_u5fhjt.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780941886/houseofcrust_u5fhjt.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780941886/houseofcrust_u5fhjt.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780941886/houseofcrust_u5fhjt.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "category_rules": {
+    "Midnight Deals": {
+      "timings": [
+        { "start": "12:00", "end": "15:00" },
+        { "start": "22:30", "end": "01:30" }
+      ],
+      "timeZone": "Asia/Karachi",
+      "label": "Available from 12 PM - 3 PM & 10:30 PM - 1:30 AM"
+    }
+  },
+  "menu": [
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 01",
+      "price": 710,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715176/1_vheqxy.png",
+      "includes": [
+        "Zinger Burger",
+        "Crispy Rice",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 02",
+      "price": 530,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715164/2_xxdmow.png",
+      "includes": [
+        "Zinger Burger",
+        "Fries",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 03",
+      "price": 600,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715168/3_atamrp.png",
+      "includes": [
+        "Zinger Burger",
+        "Leg Piece",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 04",
+      "price": 540,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715172/4_c3hkyb.png",
+      "includes": [
+        "Big Burger",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 05",
+      "price": 580,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715167/5_aaef1x.png",
+      "includes": [
+        "House of Crust Special Burger",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 06",
+      "price": 780,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715165/6_n0etjs.png",
+      "includes": [
+        "2 Zinger Burgers",
+        "Half Liter Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 07",
+      "price": 430,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715169/7_lrjauj.png",
+      "includes": [
+        "Chicken Burger",
+        "Regular Fries",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 08",
+      "price": 430,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715169/8_qoudmu.png",
+      "includes": [
+        "BBQ Burger",
+        "Fries",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 09",
+      "price": 570,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715179/9_ikqex0.png",
+      "includes": [
+        "3 Chicken Pieces",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 10",
+      "price": 1030,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715175/10_kbq9j2.png",
+      "includes": [
+        "5 Big Pieces",
+        "Half Liter Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 11",
+      "price": 370,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715212/11_wlc9ao.png",
+      "includes": [
+        "Crispy Rice",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 12",
+      "price": 380,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715179/12_pevkxc.png",
+      "includes": [
+        "Chicken Popshots"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 13",
+      "price": 480,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715184/13_amhun7.png",
+      "includes": [
+        "5 Hot Wings",
+        "Arabian Rice",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 14",
+      "price": 430,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715182/14_b87nqy.png",
+      "includes": [
+        "BBQ Rice",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 15",
+      "price": 540,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715188/15_tsdwsr.png",
+      "includes": [
+        "5 Hot Wings",
+        "5 Nuggets",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 16",
+      "price": 600,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715189/16_xhnraj.png",
+      "includes": [
+        "10 Hot Wings",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 17",
+      "price": 380,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715187/17_rtyvq5.png",
+      "includes": [
+        "Zinger Roll",
+        "BBQ Roll or Shawarma",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 18",
+      "price": 510,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715192/18_hmxhz9.png",
+      "includes": [
+        "Macaroni or Pasta or Spaghetti Pasta",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 19",
+      "price": 600,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715189/19_gc1eye.png",
+      "includes": [
+        "Small Pizza",
+        "Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 20",
+      "price": 1210,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715200/20_sypkkf.png",
+      "includes": [
+        "Medium Pizza",
+        "Cold Drink",
+        "1 Liter Drink"
+      ]
+    },
+    {
+      "category_name": "Deals",
+      "item_name": "Deal 21",
+      "price": 1699,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715203/21_xcjnrx.png",
+      "includes": [
+        "Large Pizza",
+        "Cold Drink",
+        "1.5 Liter Drink"
+      ]
+    },
+    {
+      "category_name": "Family Deals",
+      "item_name": "Deal 22",
+      "price": 2550,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715200/22_vg42sm.png",
+      "includes": [
+        "Large Pizza",
+        "3 Zinger Burgers",
+        "1.5 Liter Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Family Deals",
+      "item_name": "Deal 23",
+      "price": 1699,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715202/23_hvuaea.png",
+      "includes": [
+        "Medium Pizza",
+        "10 Hot Wings",
+        "1 Liter Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Family Deals",
+      "item_name": "Deal 24",
+      "price": 1099,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715203/24_bqg18a.png",
+      "includes": [
+        "2 Small Pizzas",
+        "Cold Drink",
+        "1 Liter Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Family Deals",
+      "item_name": "Deal 25",
+      "price": 1150,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715202/25_vvmwiq.png",
+      "includes": [
+        "10 Hot Wings",
+        "10 Nuggets",
+        "1 Liter Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Family Deals",
+      "item_name": "Deal 26",
+      "price": 1780,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715210/26_c4zznk.png",
+      "includes": [
+        "3 Zinger Burgers",
+        "3 Chicken Pieces",
+        "1 Liter Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Family Deals",
+      "item_name": "Deal 27",
+      "price": 530,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715213/27_osaqmh.png",
+      "includes": [
+        "Grilled Wings (8 Pieces)",
+        "Regular Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Midnight Deals",
+      "item_name": "Deal 28",
+      "price": 399,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715207/28_bstyv3.png",
+      "includes": [
+        "Zinger Burger",
+        "Regular Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Midnight Deals",
+      "item_name": "Deal 29",
+      "price": 420,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715212/29_xdamrn.png",
+      "includes": [
+        "2 Chicken Pieces",
+        "Regular Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Midnight Deals",
+      "item_name": "Deal 30",
+      "price": 570,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715215/30_xmkjvx.png",
+      "includes": [
+        "10 Hot Wings",
+        "Regular Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Midnight Deals",
+      "item_name": "Deal 31",
+      "price": 370,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715213/31_xvytwj.png",
+      "includes": [
+        "Zee Roll",
+        "Regular Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Midnight Deals",
+      "item_name": "Deal 32",
+      "price": 480,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715176/32_pxuwt5.png",
+      "includes": [
+        "Shawarma Platter",
+        "Regular Cold Drink"
+      ]
+    },
+    {
+      "category_name": "Midnight Deals",
+      "item_name": "Deal 33",
+      "price": 400,
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780715173/33_gui224.png",
+      "includes": [
+        "Chicken Burger",
+        "Regular Fries",
+        "Regular Cold Drink"
+      ]
+    }
+  ]
+}

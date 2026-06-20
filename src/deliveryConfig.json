@@ -1,0 +1,64 @@
+{
+  "appSettings": {
+    "showHomePage": "yes",
+    "showPWAInstallButton": "yes",
+    "midnightDealsMessage": "🕒 Available from 12 PM - 3 PM & 10:30 PM - 1:30 AM"
+  },
+  "restaurant": {
+    "name": "House of Crust",
+    "lat": 29.4061308,
+    "lng": 71.703044,
+    "whatsappNumber": "923044322333"
+  },
+  "branches": [
+    {
+      "name": "House of Crust Main",
+      "available": "no",
+      "lat": 29.4061308,
+      "lng": 71.703044,
+      "whatsappNumber": "923277343906"
+    },
+    {
+      "name": "Qasim Town Branch",
+      "available": "no",
+      "lat": 29.4043245,
+      "lng": 71.6915066,
+      "whatsappNumber": "923277343906"
+    }
+  ],
+  "socialLinks": {
+    "instagram": { "available": "yes", "url": "https://www.instagram.com/house_of_crust_bwp?igsh=MTBuc3EyYzA5aGt4eg==" },
+    "tiktok":    { "available": "yes", "url": "https://www.tiktok.com/@house.of.crust?_r=1&_t=ZS-97125T73YZO" },
+    "facebook":  { "available": "yes", "url": "https://www.facebook.com/HouseofCrust?mibextid=ZbWKwL" }
+  },
+  "deliveryPricing": {
+    "distance_based_charges": "yes",
+    "fixedDeliveryCharge": 120,
+    "baseFee": 0,
+    "tiers": [
+      { "fromKm": 0, "toKm": 5,   "ratePerKm": 20 },
+      { "fromKm": 5, "toKm": 999, "ratePerKm": 20 }
+    ],
+    "currency": "PKR"
+  },
+  "serviceCharge": {
+    "enabled": true,
+    "rate": 0.02,
+    "label": "Service Charges (2%)"
+  },
+  "liveLocation": {
+    "enabled": true,
+    "googleMapsUrlPrefix": "https://maps.google.com/?q="
+  },
+  "orderTimes": {
+    "Delivery":          { "minutes": 45, "available": "yes", "message": "Our rider will contact you upon arrival. Thanks for choosing House Of Crust" },
+    "Pick-UP":           { "minutes": 30, "available": "yes", "message": "Your order will be ready for pickup at our restaurant. Thanks for choosing House Of Crust" },
+    "DineIn Reservation":{ "minutes": 30, "available": "yes", "message": "Your table will be ready and food will be served shortly. Thanks for choosing House Of Crust" }
+  },
+  "discount": {
+    "available": "no",
+    "percent": 2,
+    "label": "Get 3% Off",
+    "bannerText": "Get 3% Off"
+  }
+}

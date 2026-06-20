@@ -1,0 +1,69 @@
+{
+  "category_name": "Platters",
+  "items": [
+    {
+      "subcategory_name": "Grilled Platter",
+      "price": 600,
+      "includes": [
+        "2 Chicken Pcs Grilled",
+        "Fries",
+        "Salad",
+        "Sauce",
+        "Pita Bread"
+      ],
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1781100843/plattersss_hxvbvk.avif"
+    },
+    {
+      "subcategory_name": "BBQ Kabab Platter",
+      "price": 500,
+      "includes": [
+        "3 Seekh Kabab",
+        "3 Kofta Kabab",
+        "Sauce",
+        "Rice",
+        "Salad",
+        "Paratha"
+      ],
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1781100843/plattersss_hxvbvk.avif"
+    },
+    {
+      "subcategory_name": "Turkish Platter",
+      "price": 550,
+      "includes": [
+        "4 Oven Baked Roll",
+        "Fries",
+        "Salad",
+        "Dip Sauce"
+      ],
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1781100843/plattersss_hxvbvk.avif"
+    },
+    {
+      "subcategory_name": "Bihari Platter Roll",
+      "price": 550,
+      "includes": [
+        "Oven Baked Roll",
+        "5 pieces grilled wings",
+        "fries",
+        "Dip Sauce"
+      ],
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1781100843/plattersss_hxvbvk.avif"
+    },
+    {
+      "subcategory_name": "Mughlai Platter",
+      "price": 900,
+      "includes": [
+        "6 Grilled Wings",
+        "3 Seekh Kabab",
+        "2 Grilled Piece",
+        "1 Bread",
+        "Sauce"
+      ],
+      "available": "yes",
+      "image": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1781100843/plattersss_hxvbvk.avif"
+    }
+  ]
+}

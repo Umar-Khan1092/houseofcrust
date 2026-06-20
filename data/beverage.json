@@ -1,0 +1,89 @@
+{
+  "category": "Beverages",
+  "image_url": "https://res.cloudinary.com/do3pfwdv5/image/upload/v1780717392/Beverages_hpb0oc.avif",
+  "items": [
+    {
+      "id": "CD001",
+      "name": "Cold Drinks",
+      "available": true,
+      "brands": [
+        {
+          "name": "Next Cola",
+          "available": true,
+          "sizes": [
+            {
+              "size": "Buddy",
+              "price": 80,
+              "available": true
+            },
+            {
+              "size": "Half Liter",
+              "price": 120,
+              "available": true
+            },
+            {
+              "size": "1 Liter",
+              "price": 180,
+              "available": true
+            },
+            {
+              "size": "1.5 Liter",
+              "price": 220,
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": "Gourmet Cola",
+          "available": true,
+          "sizes": [
+            {
+              "size": "Buddy",
+              "price": 80,
+              "available": true
+            },
+            {
+              "size": "Half Liter",
+              "price": 120,
+              "available": true
+            },
+            {
+              "size": "1 Liter",
+              "price": 180,
+              "available": true
+            },
+            {
+              "size": "1.5 Liter",
+              "price": 220,
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WT001",
+      "name": "Mineral Water",
+      "available": true,
+      "sizes": [
+        {
+          "size": "Half Liter",
+          "price": 70,
+          "available": true
+        },
+        {
+          "size": "1.5 Liter",
+          "price": 120,
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "DG001",
+      "name": "Disposable Glass",
+      "available": true,
+      "price": 10,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWJiS5a4zuI3rpSN7dTVZa2mg2jXDeuUifzA&s"
+    }
+  ]
+}
