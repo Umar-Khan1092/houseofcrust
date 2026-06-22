@@ -125,6 +125,7 @@ export default function App() {
   const [originalMinutes, setOriginalMinutes] = useState(0);
   const [currentCoords, setCurrentCoords] = useState(null);
   const [locationStatus, setLocationStatus] = useState("");
+  const [distanceKm, setDistanceKm] = useState(0);
   const [imgErrors, setImgErrors] = useState({});
   const [customizations, setCustomizations] = useState({});
   const [customPizzaSauce, setCustomPizzaSauce] = useState({});
@@ -722,9 +723,33 @@ export default function App() {
     return closest;
   }, [currentCoords, availableBranches]);
 
-  const distanceKm = currentCoords
-    ? calculateDistanceKm(nearestBranch.lat, nearestBranch.lng, currentCoords.latitude, currentCoords.longitude)
-    : 0;
+  useEffect(() => {
+    if (currentCoords && nearestBranch && orderType === "Delivery") {
+      const fetchDrivingDistance = async () => {
+        try {
+          const lng1 = nearestBranch.lng;
+          const lat1 = nearestBranch.lat;
+          const lng2 = currentCoords.longitude;
+          const lat2 = currentCoords.latitude;
+          
+          const res = await fetch(`https://router.project-osrm.org/route/v1/driving/${lng1},${lat1};${lng2},${lat2}?overview=false`);
+          const data = await res.json();
+          if (data.code === 'Ok' && data.routes && data.routes.length > 0) {
+            setDistanceKm(data.routes[0].distance / 1000);
+            return;
+          }
+        } catch (error) {
+          console.error("Error fetching driving distance:", error);
+        }
+        // Fallback to aerial distance
+        setDistanceKm(calculateDistanceKm(nearestBranch.lat, nearestBranch.lng, currentCoords.latitude, currentCoords.longitude));
+      };
+      
+      fetchDrivingDistance();
+    } else {
+      setDistanceKm(0);
+    }
+  }, [currentCoords, nearestBranch, orderType]);
   const deliveryCharge = orderType === "Delivery" ? calculateDeliveryCharge(distanceKm) : 0;
   const serviceCharge = orderType === "DineIn Reservation" ? Math.round(cartTotal * (deliveryConfig.serviceCharge?.rate || 0.03)) : 0;
   const serviceChargeLabel = deliveryConfig.serviceCharge?.label || "Service Charges";
