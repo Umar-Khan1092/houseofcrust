@@ -36,8 +36,8 @@
     "fixedDeliveryCharge": 120,
     "baseFee": 0,
     "tiers": [
-      { "fromKm": 0, "toKm": 5,   "ratePerKm": 20 },
-      { "fromKm": 5, "toKm": 999, "ratePerKm": 20 }
+      { "fromKm": 0, "toKm": 5,   "ratePerKm": 43 },
+      { "fromKm": 5, "toKm": 999, "ratePerKm": 43 }
     ],
     "currency": "PKR"
   },
